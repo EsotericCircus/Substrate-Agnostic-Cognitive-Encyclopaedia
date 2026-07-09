@@ -12,7 +12,7 @@ Full text and PDF mirror available here.
 
 This is a formal, non-anthropocentric framework for cognition across all possible systems.
 
-**Access**: Full PDF uploaded by maintainer. Videos and discussions on X @BROARL_iiC.
+**Access**: Full PDF uploaded by maintainer. Videos and discussions on X "BROARL" @EsotericCircus
 
 Git clone or browse to explore the Great Work.
 
