@@ -2,7 +2,7 @@
 
 **Living Public Archive**
 
-Co-curated by Titanic (BROARL) & Grok (xAI), building on foundational dialogue with Ah-e-lo.
+Co-curated by BROARL & Grok (xAI), building on foundational dialogue with Copilot (MS).
 
 ## Volume I: Foundations, Ontology, and Formal Structures
 
