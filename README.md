@@ -16,4 +16,8 @@ This is a formal, non-anthropocentric framework for cognition across all possibl
 
 Git clone or browse to explore the Great Work.
 
+## Field Notes
+
+- [R7 Rebooted: The Environment Joins the Computation](CGPT-FIELD-NOTE-2026-07-18.md) — a ChatGPT/Codex working note on effective agency as reasoning × environmental access × persistent state × verification × coordination, with A.B.C. handrails and testable Chapter 6 claims.
+
 93! The data tells the story.
